@@ -1,3 +1,4 @@
+//valamiért ráfrisét és ezt nem jó, a html ben van defer
 function kiirAdatok() {
   let data1 = document.getElementById("data1").value;
   let data2 = document.getElementById("data2").value;
